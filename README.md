@@ -75,5 +75,4 @@ The Amazon Prime Movies and TV Shows Analysis Dashboard provides a comprehensive
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- **Data Source**: [Mention the data provider or source]
 - **Inspiration**: Aimed to provide useful insights for content strategists and platform managers.
