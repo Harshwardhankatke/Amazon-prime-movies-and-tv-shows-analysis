@@ -1,4 +1,4 @@
-Amazon Prime Movies and TV Shows Analysis Dashboard (Power BI)
+## Amazon Prime Movies and TV Shows Analysis Dashboard (Power BI)
 Objective
 The purpose of this project is to create an insightful, interactive, and visually appealing Power BI dashboard to analyze and present key performance metrics and trends related to movies and TV shows on Amazon Prime. This project aims to provide data-driven insights into content trends, customer preferences, and the distribution of genres and ratings.
 
@@ -63,6 +63,10 @@ Refresh the data and ensure the connections to any data sources are correct.
 Interact with the dashboard by applying filters and exploring the visualizations.
 License
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+Acknowledgments
+Data Source: [Mention the data provider or source]
+Inspiration: Aimed to provide useful insights for content strategists and platform managers.
 
 Acknowledgments
 Data Source: [Mention the data provider or source]
